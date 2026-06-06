@@ -1,0 +1,8 @@
+{
+  "name": "L'Essence Premium Dining",
+  "description": "An exquisite fine-dining portal for L'Essence, featuring high-resolution interactive menus, an intuitive table reservation manager, and an ambient AI Sommelier & Culinary Companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
